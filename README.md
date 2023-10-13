@@ -2,7 +2,7 @@
 
 El equipo de colaboradoras de Mujer Digital realizo este Sistema de Gestion de libros como parte de un proyecto.
 
-Especificaciones del sistema
+**Especificaciones del sistema**
 
 Biblioteca Alfa Buena Maravilla Escuadron Lobo
 
@@ -14,13 +14,13 @@ Contenido del sistema:
 - Editar libros y usuarios
 - Eliminar libros y usuarios
 
-Requisitos y especificaciones de instalacion:
+**Requisitos y especificaciones de instalacion:**
 
 Para poder instalar el sistema debera contar con una IDE para el uso de java (en este caso se utilizo NeBeans para la realizacion del proyecto)
 Crear una clase y paquete llamados BibliotecaABMEL para su corrrecto uso
 Asi podra ejecutar la clase Biblioteca que contiene el main para correr el programa
 
-Guía de Uso:
+**Guía de Uso:**
 
 Al ejecutar el programa, podrás acceder a un menú de inicio que te permite elegir la acción que deseas realizar.
 Deberas seleccionar la opcion que deseas, ingresando el numero de la accion, dependiendo de su eleccion podria mostrarse otro menu con las mismas instrucciones, seleccionar una opcion numerica, seguido de eso ingresa los datos requeridos y para la finalizacion del programa regresas al menu inicial y seleccionas la opcion '0'
